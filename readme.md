@@ -27,7 +27,7 @@
 012. When the user types in the input field and clicks submit, append the text in an `h2` element to the `div`.
 013. When the user mouses over the `h2` element, assign it a new background color and border radius. 
 * Hint: http://api.jquery.com/css/
-014. Great job! Now, delete the code for creating the h2 and we are going to work on creating a list.
+014. Great job! Now, delete the code for creating the `h2` and we are going to work on creating a list.
 015. Use jQuery to create an unordered list and append it to the body.
 016. When the user submits the form, append the text as list item to the unordered list.
 017. When the user clicks on the li element, assign it a random color.
